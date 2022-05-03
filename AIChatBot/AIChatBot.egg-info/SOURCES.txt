@@ -1,0 +1,8 @@
+setup.py
+AIChatBot/__init__.py
+AIChatBot/bot.py
+AIChatBot/parser.py
+AIChatBot.egg-info/PKG-INFO
+AIChatBot.egg-info/SOURCES.txt
+AIChatBot.egg-info/dependency_links.txt
+AIChatBot.egg-info/top_level.txt
